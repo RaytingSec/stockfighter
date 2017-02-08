@@ -1,0 +1,12 @@
+Level 2
+================
+
+Goal
+- Account IRB76988567
+- BUY 100K MPC
+- Avoid a "price impact"
+
+Idea
+- Loop that buys X shares at a time
+- Short cooldown
+- Minimal price spread
